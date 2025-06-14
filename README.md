@@ -84,3 +84,9 @@ GET /api/balances/main-account/transactions
 После запуска перейдите на  
 [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
+## Скриншоты
+
+![Swagger](src/main/resources/static/img.png)
+![Список транзакций](src/main/resources/static/img_1.png)
+![Список транзакций](src/main/resources/static/img_2.png)
+![Ошибка запроса](src/main/resources/static/img_3.png)
