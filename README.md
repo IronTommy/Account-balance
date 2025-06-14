@@ -65,10 +65,6 @@ Content-Type: application/json
 ### 5. Получить все транзакции
 GET /api/balances/main-account/transactions
 
-## Swagger/OpenAPI
-
-После запуска перейдите на  
-[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)  
 
 ## Валюты и курсы
 
@@ -82,3 +78,9 @@ GET /api/balances/main-account/transactions
 - Java 17
 - Maven
 - PostgreSQL
+
+## Swagger/OpenAPI
+
+После запуска перейдите на  
+[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
